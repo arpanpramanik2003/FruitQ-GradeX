@@ -72,6 +72,8 @@ The dataset includes 8 categories:
 - Predicted Condition: Bad
 - Confidence: [Apple: 92.1%, Bad: 96.4%]
 
+---
+
 Copyright (c) 2025 Arpan Pramanik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
