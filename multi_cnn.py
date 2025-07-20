@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # Load the model
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model('fruit_condition_model.h5')
+    model = tf.keras.models.load_model('model.h5')
     return model
 
 # Load fruit encoder classes
@@ -93,7 +93,7 @@ def display_gradcam(image, heatmap_fruit, heatmap_condition, fruit_class, condit
     return fig
 
 # Main Streamlit app
-st.title("Fruit and Condition Classifier")
+st.title("🍎🍌Fruit and Condition Classifier")
 st.write("Upload an image to classify the fruit type and its condition, with Grad-CAM visualizations.")
 
 model = load_model()
