@@ -17,6 +17,7 @@ def load_fruit_classes():
 
 # Preprocess image
 def preprocess_image(image):
+    image = image.convert("RGB")  # 🔥 force 3 channels
     image = image.resize((224, 224))
     image_array = np.array(image) / 255.0
     image_array = np.expand_dims(image_array, axis=0).astype(np.float32)
@@ -131,3 +132,4 @@ if uploaded_file is not None:
     if heatmap_fruit is not None and heatmap_condition is not None:
         fig = display_gradcam(image, heatmap_fruit, heatmap_condition, fruit_label, condition_label)
         st.pyplot(fig)
+
