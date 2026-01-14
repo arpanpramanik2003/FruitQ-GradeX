@@ -269,45 +269,34 @@ We welcome contributions! Here's how you can help:
 
 ---
 
+## 📞 Contact
+
+### **Arpan Pramanik**
+- 📧 **Email**: arpanpramanik2003@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/arpan-pramanik](https://linkedin.com/in/arpan-pramanik)  
+- 🐱 **GitHub**: [@arpanpramanik2003](https://github.com/arpanpramanik2003)
+
+### **Diya Chanda**
+- 📧 **Email**: chandasujata01@gmail.com  
+- 🐱 **GitHub**: [@chandadiya2004](https://github.com/chandadiya2004)
+
+---
+
+## 👥 Authors
+
+- **Arpan Pramanik** – Model Architecture Design, Training Pipeline, Explainable AI (Grad-CAM), Deployment  
+- **Diya Chanda** – Dataset Curation, Experimental Analysis, Performance Evaluation, Documentation  
+
+---
+
 ## 📄 License
 
 **MIT License**
 
-Copyright (c) 2025 Arpan Pramanik
+Copyright (c) 2025  
+**Arpan Pramanik, Diya Chanda**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-## 📞 Contact
-
-**Arpan Pramanik**
-- 📧 **Email**: arpanpramanik2003@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/arpan-pramanik](https://linkedin.com/in/arpan-pramanik)
-- 🐱 **GitHub**: [@arpanpramanik2003](https://github.com/arpanpramanik2003)
-
----
-
-## 🙏 Acknowledgments
-
-- 🎓 **Dataset Provider**: FruitNet Dataset contributors
-- 🔬 **Research Inspiration**: Grad-CAM paper by Selvaraju et al.
-- 🌟 **Framework**: TensorFlow and Keras communities
-- 💡 **UI Framework**: Streamlit development team
-- 📚 **Documentation**: GitHub community best practices
-
----
-
-## 📈 Project Stats
-
-![GitHub Stars](https://img.shields.io/github/stars/arpanpramanik2003/FruitQ-GradeX?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/arpanpramanik2003/FruitQ-GradeX?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/arpanpramanik2003/FruitQ-GradeX)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpanpramanik2003/FruitQ-GradeX)
 
 ---
 
@@ -315,6 +304,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **⭐ Star this repository if you found it helpful! ⭐**
 
-*Built with ❤️ by [Arpan Pramanik](https://github.com/arpanpramanik2003)*
+*Built with ❤️ by **Arpan Pramanik & Diya Chanda***
+
+</div>
 
 </div>
